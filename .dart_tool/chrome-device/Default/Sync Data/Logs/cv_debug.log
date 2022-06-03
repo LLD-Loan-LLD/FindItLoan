@@ -131,3 +131,14 @@
 {"logTime": "0602/085911", "correlationVector":"XBx88nxTuwfcJ05oulRrfY","action":"Poll GetUpdate request", "result":""}
 {"logTime": "0602/085911", "correlationVector":"XBx88nxTuwfcJ05oulRrfY.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|106", "server":"AM3PEPF0000096F"}}
 {"logTime": "0602/085911", "correlationVector":"XBx88nxTuwfcJ05oulRrfY.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0603/102228", "correlationVector":"DMVGA3Cdgj4PVYs7QN/5c/.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0603/102228", "correlationVector":"DMVGA3Cdgj4PVYs7QN/5c/.0","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "server":""}}
+{"logTime": "0603/102228", "correlationVector":"v9/13yfkwSfPKmG6pH1fV1.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|106", "server":"AM3PEPF00000999"}}
+{"logTime": "0603/102228", "correlationVector":"5Wlz2VD87ZNLghISXuWcRb.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|106", "server":"AM3PEPF00000999"}}
+{"logTime": "0603/102228", "correlationVector":"v9/13yfkwSfPKmG6pH1fV1","action":"Initial GetUpdates", "result":""}
+{"logTime": "0603/102228", "correlationVector":"v9/13yfkwSfPKmG6pH1fV1.2","action":"GetUpdates Response", "result":"SERVER_MORE_TO_DOWNLOAD"}
+{"logTime": "0603/102228", "correlationVector":"5Wlz2VD87ZNLghISXuWcRb","action":"Initial GetUpdates", "result":""}
+{"logTime": "0603/102228", "correlationVector":"5Wlz2VD87ZNLghISXuWcRb.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0603/102228", "correlationVector":"A/fZf5q9Z0ukndE2uaLOhO","action":"Normal GetUpdate request", "result":""}
+{"logTime": "0603/102228", "correlationVector":"A/fZf5q9Z0ukndE2uaLOhO.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|106", "server":"AM3PEPF00000999"}}
+{"logTime": "0603/102228", "correlationVector":"A/fZf5q9Z0ukndE2uaLOhO.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
